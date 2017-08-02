@@ -1,0 +1,15 @@
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.exe.config
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.exe
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.pdb
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.csprojResolveAssemblyReference.cache
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.exe
+C:\Users\t-abradw\Desktop\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.pdb
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.exe.config
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.exe
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.exe.config
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\bin\Debug\character_tokenizer_with_japanese.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\character_tokenizer_with_japanese\character_tokenizer_with_japanese\obj\Debug\character_tokenizer_with_japanese.csprojResolveAssemblyReference.cache
